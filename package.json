@@ -1,6 +1,6 @@
 {
   "name": "uuid-converter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple say to add or remove dashes from a UUID",
   "main": "index.js",
   "scripts": {
