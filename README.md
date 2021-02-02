@@ -1,2 +1,2 @@
 # UUID-converter
-Remove and add dashes from UUIDs
+Remove and add dashes from UUIDs, very useful when working with the Mojang API.
