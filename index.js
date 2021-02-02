@@ -1,5 +1,5 @@
 module.exports = (uuid) => {
-    if (typeof uuid === String) throw TypeError('The input uuid must be a string!')
+    if (typeof uuid != String) throw TypeError('The input uuid must be a string!')
 
     if (uuid.includes('-')) {
         uuid = uuid.replace(/-/g, '')
